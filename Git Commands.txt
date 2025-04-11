@@ -1,0 +1,139 @@
+wget -- download the software
+    1) need to external software . then we can use wget and download the software after tar and untar.
+    2) already softwares in yum repository. yum install java or dotnet.
+
+nohup : nohangup 
+
+        if u give command , not getting hang.run the background process.
+
+kill -3 : threaded up . troubleshoot time used.
+
+=====================================================================================================
+                       Git commands 
+=====================================================================================================
+ SDLC : Software development life cycle
+ 
+ plan->design->build->test->deployment->release->monitoring
+
+ plan : gather requirement
+ defining : what languages we are using .
+ Design : start development (devops start)
+        
+           if u want start development where we need to write code and where maintined
+   old days : they can write code in local system and keep in shared folders . for the reason sometimes delay or getting issue.
+
+   now days : version control system (VCS):
+               VCS ntg but it will keep one track the all changes .
+             1) centraliazed version control system (sub version )
+                 center server- where u need to write code ,once code written u can keep maintain in server.
+                  that is called commit.
+    incase CVCS server getting traced , we may loss the data. for the reason we use.
+
+             2)Distributed version control system (DVCS) - > Ex: git 
+      Here every developer will get one copy of ur repository (centralized location of the server or where ur maintaning the code)
+        repository (folder) -> where code exists.
+
+Git : git is distributed versio control system to manage ur source code. this is ntg but source code management tool.
+     
+    --> How maintain the source code : source code manegement will maintain the code.
+
+    --> go to root user the check
+
+    --> first check install git 
+
+          git --version (here showing installed or not) 
+
+    --> install git :
+                      yum install git
+                      git version 2.47.1
+
+    --> yum update (sometimes we can use always . for suppose is ther any updates automatically updated)
+
+    --> create repsository : 
+        -------------------- 
+           git init reposirotyname 
+
+            Ex:  git init git_repo
+
+             #)how to find repository or directory
+               ls -lrta
+                 .git -->directory name with end 
+
+      --> now need to work in Repository.
+          first create file in repostiroy with some data.
+         once created file , u have add file in staging area.
+
+         $ git add : 
+                     Moves changes from the working directory to the staging area.
+
+         $ give status 
+
+         $ git add filename 
+
+    ---> once add file in repository , then we can commit.
+
+         $ git commit -m  "mention comments"
+
+       create repository (folder) -->add file in repository-->commit the file 
+
+       Note : Incase sometimes need to modified the file , then again need to add file in staging area and do again commit.
+
+              Once again added the file , after u realized those changes don't want .. for that time we can use command
+             
+          $ git restore --staged filename 
+
+          $ git checkout filename 
+
+          $ git log (track the entire commit status and id displayed)
+
+       Note : For suppose once commited the file , but after need to revert the file . we need to use command
+
+          $ git revert --(before u have to take commit id : git log --oneline) 
+
+          $ git revert commit id (delete revert line and give comments why revert)
+   
+    ---> For suppose know the commit id , but inside commit id what happend or who did) 
+
+          $ git show commitid  (showing all changes lines or added)
+
+
+
+    Git 2nd class 
+    ==============
+
+        For suppose ur working middle of the file ,  but get work from others immediately.
+          need to do others work, we can't leave ur file right. we can add file but don't do commit.
+
+         $ git add filename
+
+         $ git status
+
+         Note : first test its working after we can commit. for the reason we can do stash.
+
+         $ git stash
+        
+            do other work will be finished, add the staging area afetr commit.
+             Once others completed , need to go ur work
+
+         $ git stash apply
+
+         after commited , need to changes commit messages then go to 
+
+         $ git commit --amend
+
+   
+
+
+
+    
+   
+                   
+
+          
+
+   
+    
+
+
+
+                    
