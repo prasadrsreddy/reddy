@@ -1,8 +1,10 @@
 git rebase is a command that allowd you to integrate chanegs from
 one brnachis and  into another b moving or combining commits.
-git command 
+git cmds
 git init
-git add
+git add/rm filename
 git commit
 git stash
+git brnach
+
 
