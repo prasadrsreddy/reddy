@@ -1,0 +1,2 @@
+git rebase is a command that allowd you to integrate chanegs from
+one brnach into another b moving or combining commits.
