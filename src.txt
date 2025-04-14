@@ -1,0 +1,3 @@
+update were rejected because the tip of your benach behind
+use git pull before pushing again
+on bracnh main
