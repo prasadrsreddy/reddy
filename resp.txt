@@ -18,11 +18,6 @@ git rebase- combine tow files data
 git merge
 git rm
 
-
-kinaxis development and few of the admin related things as well..
-
-
-workbook development - table-based, composite, data modification, alerts - monitoring, hierarchies and filters, and scenario hierarchy setup to meet process requirements.
 Working on creating an ETL program to support Informatica Power Center loading, transformation, and extraction of data.
 
 Involved in writing test cases and performing unit testing to ensure proper functionality, data accuracy, 
