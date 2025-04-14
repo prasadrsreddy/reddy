@@ -5,6 +5,20 @@ scheduling task. other trophy of the techincal areas i was working.
 
 i was indiuval worker.
 
+I was worked with ecolab service pvt.ltd
+
+git command is version contrl toll and distriburuinon tools
+
+git init -- create a repositroy
+git add -- once created repository we can move stagging area
+git commit - any modfied the file after we can commit 
+git stash - temporrary file saved
+git stash apply- release 
+git rebase- combine tow files data
+git merge
+git rm
+
+
 kinaxis development and few of the admin related things as well..
 
 
