@@ -1,0 +1,13 @@
+git commands:
+====================
+
+git init
+git add
+git commit -m
+git stash
+git stash appli
+git log
+git show
+git branch
+git checkout brnach name
+git status
