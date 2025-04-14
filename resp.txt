@@ -1,0 +1,83 @@
+I was working kinaxis technical responsibilities ,i was playing expecialy.
+
+I was more into the implementaion,i do take care of development for kinaxis area.like workbooks,worsheets,alerts,automation chain ,
+scheduling task. other trophy of the techincal areas i was working.
+
+i was indiuval worker.
+
+kinaxis development and few of the admin related things as well..
+
+
+workbook development - table-based, composite, data modification, alerts - monitoring, hierarchies and filters, and scenario hierarchy setup to meet process requirements.
+Working on creating an ETL program to support Informatica Power Center loading, transformation, and extraction of data.
+
+Involved in writing test cases and performing unit testing to ensure proper functionality, data accuracy, 
+and that changes do not have a negative impact on the integrated system environment 
+as per business expectations.
+
+
+Kinaxis Credentails:
+===================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+			
+			
+			
+
+			
+
+
+
+
+
+
+
+
