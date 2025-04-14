@@ -8,6 +8,9 @@ git stash
 git stash appli
 git log
 git show
-git branch
+git branches name 
 git checkout brnach name
 git status
+git pull
+git push
+
