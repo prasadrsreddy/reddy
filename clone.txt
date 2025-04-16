@@ -1,0 +1,2 @@
+Git clone
+Thsi command is used to obtain a repositroy from existing URL.
