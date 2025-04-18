@@ -3,3 +3,7 @@ Alternatively use esc then tab to move to the next interactive element on the pa
 
 Dashboards 
 evnsts
+one branch is into another branch moving our combaining commits.
+
+fast forward
+git commands
