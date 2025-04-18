@@ -18,3 +18,4 @@ inside local we can do our changes and committed.
 
 git clone link 
 
+git commit -m
