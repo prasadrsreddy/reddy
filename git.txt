@@ -2,11 +2,7 @@ wget -- download the software
     1) need to external software . then we can use wget and download the software after tar and untar.
     2) already softwares in yum repository. yum install java or dotnet.
 
-nohup : nohangup 
 
-        if u give command , not getting hang.run the background process.
-
-kill -3 : threaded up . troubleshoot time used.
 
 =====================================================================================================
                        Git commands 
