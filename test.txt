@@ -2,8 +2,10 @@ use control+shift+m to toggle the tab key moving focus.
 Alternatively use esc then tab to move to the next interactive element on the page.
 
 Dashboards 
-evnsts
+events
 one branch is into another branch moving our combaining commits.
 
+Learnin Devops course
+Leraning azure
 
 
