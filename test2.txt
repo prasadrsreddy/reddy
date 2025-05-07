@@ -1,4 +1,0 @@
-git rebase command used to allowed you to integrate chanegs from 
-one branch to another branch moving ot combining commits.
-
-
