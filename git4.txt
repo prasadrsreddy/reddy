@@ -7,3 +7,8 @@ dfpduhj[
 asdPg;p9asuhgAS"Fl;sfughjsfag
 ]as[fpg9sfughfsgf
 ]['sda;ljfao
+
+git commands 
+git commit
+git push
+git pull
