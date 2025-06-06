@@ -1,2 +1,0 @@
-KE moving focus,
-USe esc tab to move to thte next interactive element on the page
