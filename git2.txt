@@ -10,43 +10,6 @@ SDLC : Software development life cycle
 	 
    we can maintain the code through source code management tools.
    
-   Now our programs all worked correctly.Now project is ready.
-   we can't give code directly to customer right.
-   It's has to be in the compreshed format Or executable format orfile . this is called Building.
-   By using Build tool we can get it .
-   
-   Source code mgmt -> git and git hub
-   Build tool --> maven
-   
-   1) if you are using java application , then u have to use the Build tool like "Ant", "Maven", "Gradle".
-   2) whenever you build java project what u will get ?
-       Ans) we will get jar (java archieve) files -it is a collection of .class files (
-	                    war (Web archieve) files - web related files (HTML, CSS, java scrpits)
-                        Ear ( enterprise) file s- it's collection of both jar and war.
-						
-        Dotnet --> we can use Ms file .MSI,.exi.
-		
-	how to check maven version?
-	$mvn --version or mvn -n
-	
-	how to install Maven?
-	Use yum and 
-	    wget ( need to download first ) after install.
-		
-   $yum install maven
-   $mvn --version (developed by apache)
-   path : usr/share/home
-   
-   Jvaa : 17.0.14
-   
-   or 
-   wget maven $cd /opt
-    $eget URL ( installed)
-	save tar file
-  
-  We need to untar file 
-   $tar -xvzff tarfile.
-   
    
 Whats is Maven?
 Ans) It is Build tool in java projects and not only build tool .it's a project comprehension tool.
