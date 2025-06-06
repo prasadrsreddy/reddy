@@ -1,0 +1,6 @@
+git hub is hositng the file on onlien
+git commans
+git inti repositoryname
+git add filename
+git commit -m 
+git brnachname
