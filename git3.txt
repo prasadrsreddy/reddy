@@ -1,0 +1,6 @@
+Experience ci/cd pipeline techologies like Git,Jenkins,JoCoCo and maven.
+Strong data base and pl/sql skills
+managent and adoption of the new tools/process
+Building Ci/Cd pipeline using various tols like ansible , jenkins,github,and Helm chart
+Leverage monitoring and adata to timprove productions operations capacity planning and cost optimization
+
