@@ -8,7 +8,6 @@ asdPg;p9asuhgAS"Fl;sfughjsfag
 ]as[fpg9sfughfsgf
 ]['sda;ljfao
 
-<<<<<<< HEAD
 a;slkfhsdiaufhsad
 fjsdgfisad
 ]'lfkhisadukgfjhsad
@@ -20,9 +19,7 @@ gjksfbmsjf
 [sgbsgusd
 f;sdgbsdgk
 sdggsdifjsdfjsdbg'spd
-=======
 git commands 
 git commit
 git push
 git pull
->>>>>>> fa663b8b2c1246f78c66fd18180756271955af8e
