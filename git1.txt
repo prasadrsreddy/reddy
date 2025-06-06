@@ -3,7 +3,5 @@ one branch into another branch moving combining commmits.
 
 if you are using java application , then u have to use the Build tool like "Ant", "Maven", "Gradle".
    2) whenever you build java project what u will get ?
-       Ans) we will get jar (java archieve) files -it is a collection of .class files (
-	                    war (Web archieve) files - web related files (HTML, CSS, java scrpits)
-                        Ear ( enterprise) file s- it's collection of both jar and war.:wq
+     
 
