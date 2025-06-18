@@ -1,0 +1,7 @@
+//Hello world.java
+
+pubic class Helloworld {
+   public static void main (string [] args ) { 
+    system.out.println("Helloworld from Github!");
+  }
+}
