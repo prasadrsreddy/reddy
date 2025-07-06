@@ -1,9 +1,0 @@
-git rebase is a command that is allowed you tot integrate chanegs from
-one branch into another branch moving combining commmits.
-
-if you are using java application , then u have to use the Build tool like "Ant", "Maven", "Gradle".
-   2) whenever you build java project what u will get ?
-
-those commands we are sued to version control system  and we are traking the chanegs into source code in git
-     
-
